@@ -1,0 +1,9 @@
+.hero.welcome.is-info {
+  background: #36d1dc;
+  background: -webkit-linear-gradient(to right, #5b86e5, #36d1dc);
+  background: linear-gradient(to right, #5b86e5, #36d1dc);
+}
+.hero.welcome .title,
+.hero.welcome .subtitle {
+  color: hsl(192, 17%, 99%);
+}

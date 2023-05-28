@@ -1,0 +1,8 @@
+.bg-img {
+  background-image: url("https://cdn.pixabay.com/photo/2023/05/06/15/52/riverfront-7974610_960_720.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #999;
+}
